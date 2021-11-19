@@ -286,7 +286,7 @@ int main()
 	do{
 		system("cls");
 		gotoxy(10,5); cout<<" -------------------------- "; 
-		gotoxy(10,6); cout<<" |     Space Shooter      | "; 
+		gotoxy(10,6); cout<<" |     !Space Shooter!      | "; 
 		gotoxy(10,7); cout<<" --------------------------";
 		gotoxy(10,9); cout<<"1. Start Game";
 		gotoxy(10,10); cout<<"2. Instructions";	 
